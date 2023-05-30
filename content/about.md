@@ -1,0 +1,3 @@
+Hello, I'm a privacy concerned tech enthusiast, spending too much time in front of a computer.
+
+English is a second language for me, so you'll see a lot of typos and style issues on this site ;). One can say that any [Large language model](https://en.wikipedia.org/wiki/Large_language_model) can help me with that. It's true, but outcome will not be mine already. IMHO language (including programming ones) represents its user quite well...
