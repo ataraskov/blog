@@ -27,12 +27,6 @@ copyright = "&copy; Copyright 2023, ataraskov.dev"
     title = "About"
     url = "/about/"
     weight = -100
-#  [[menu.main]]
-#    identifier = "categories"
-#    name = "Categories"
-#    title = "Categories"
-#    url = "/categories/"
-#    weight = -90
 
 # Configuration Features
 [params]
