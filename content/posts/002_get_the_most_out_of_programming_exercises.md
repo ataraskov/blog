@@ -7,7 +7,7 @@ tabs:
   - learn
   - go
 ---
-Programming exercises are rarely a fun activity. In most cases we do them to sharpen skills. But how to get the most of out that activity?
+Programming exercises are rarely a fun activity. In most cases we do them to sharpen skills. But how to get the most out of that activity?
 
 Take a simple exercise to check if a word/string consists of uniq characters (dash '`-`' and space '` `' can repeat though). This is actually one of the tasks from [exercism.org](https://exercism.org) Go learning track.
 
