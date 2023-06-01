@@ -1,6 +1,6 @@
 ---
 title: Get the most out of programming exercises
-date: 2023-06-01T14:26:23+02:00
+date: 2023-06-01T09:00:00+02:00
 draft: false
 tabs:
   - programming
