@@ -42,3 +42,7 @@ copyright = "&copy; Copyright 2023, ataraskov.dev"
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
     href = "https://www.linkedin.com/in/ataraskov"
+
+# Other
+[permalinks]
+  posts = '/posts/:year/:month/:title/'
