@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<section id="main">
+  <h4 id="title">{{ .Title }}</h1>
+  <div>
+    <!-- content -->
+    <article id="content">
+      {{ .Content }}
+    <!-- meta -->
+    <p>{{ .Date.Format "Mon Jan 2, 2006" }} / {{ .WordCount }} words / 
+    {{ with .GetTerms "tags" }}
+        {{ range . }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+    {{ end }}
+    </p>
+    <!-- comments -->
+    <div id="remark42"></div>
+    <script>
+      var remark_config = {
+          host: 'http://localhost',
+          site_id: 'ataraskov.dev',
+      }
+    </script>
+    <script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);</script>
+    </article>
+  </div>
+</section>
+{{ end }}
