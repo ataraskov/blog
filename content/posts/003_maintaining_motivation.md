@@ -6,7 +6,7 @@ tags:
   - motivation
   - flow
 ---
-No matter how much I love what I do, sooner or later my motivation drains to zero. There are myriad of materials on the topic already, sure. But why not to add my own drop to the ocean :D.
+No matter how much I love what I do, sooner or later my motivation drains to zero. There are myriad of materials on the topic already, sure. But why not add my own drop to the ocean :D.
 
 My way of keeping it going is nothing new or original. As it seems, humans are tend to forget basic things. So listing my rules here:
 * *No rewards in advance*: How nice to have a paycheck before even doing anything, ha. Though that leads to titanic mental efforts to actually do something, as reward is here already, why bother?
