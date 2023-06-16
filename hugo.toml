@@ -30,6 +30,7 @@ copyright = "&copy; Copyright 2023, ataraskov.dev"
 
 # Configuration Features
 [params]
+  dateFormat = "2006-01-02"
   description = "Tech enthusiast's blog"     # Your meta description of the site
   header_title = "ataraskov.dev"             # Your header title
   header_subtitle = "About everything and nothing" # Your header subtitle
