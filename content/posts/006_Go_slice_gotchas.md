@@ -4,7 +4,7 @@ date: 2023-06-29T08:26:20+02:00
 draft: false
 tags:
  - go
- - slice
+ - programming
  - gotchas
 ---
 Gotcha - a valid construct in a system, program or programming language that works as documented but is counter-intuitive and almost invites mistakes because it is both easy to invoke and unexpected or unreasonable in its outcome [[wikipedia](https://en.wikipedia.org/wiki/Gotcha_%28programming%29)].
