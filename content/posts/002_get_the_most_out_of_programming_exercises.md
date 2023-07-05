@@ -81,4 +81,4 @@ Hmm. Not much changed in the previous iteration. Time to check standard library 
 
 &nbsp;
 
-This may not work well for production development, but it's perfect for my learning expirience at least ;)
+This may not work well for production development, but it's perfect for my learning experience at least ;)
