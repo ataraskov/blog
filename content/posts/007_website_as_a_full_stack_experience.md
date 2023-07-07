@@ -20,7 +20,7 @@ Website is just another project to plan, deploy, maintain, and learn from the ex
 * Security (CSO): Is it secure?
 * Marketing (CMO): How would you promote/sell it?
 * Finance (CFO): Do you have a budget for that?
-* Writter: How to convey the message?
+* Writer: How to convey the message?
 
 It can seem like an exaggeration at first, but a simple blog can present a lot of questions and challenges. Challenges one can never see at day-to-day job for example. Tech guys and girls tend to specialize and narrow their view with each year of professional experience. While it increases salary (usually), narrow specialization robs from you the world around. There are myriads of other things one can do.
 
