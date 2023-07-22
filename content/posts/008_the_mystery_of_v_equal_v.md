@@ -46,6 +46,7 @@ But there are more subtle ways to shoot yourself. By tests for example. Unforten
 func TestFoo(t *testing.T) {
 	testCases := []int{1, 2, 3, 4}
 	for _, v := range testCases {
+		// v := v // get new `v`, to fix
 		t.Run("sub", func(t *testing.T) {
 			t.Parallel()
 			if v%2 != 0 {
@@ -55,6 +56,8 @@ func TestFoo(t *testing.T) {
 	}
 }
 ```
+&nbsp;
+
 And this test will pass :(. Sometimes odd numbers are even. And here only `v := v` appears to be applicable, as we can't easily redefine `t.Run()` for pass extra arguments.
 
 References:
