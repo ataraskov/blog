@@ -50,7 +50,7 @@ func TestHello(t *testing.T) {
 Just writing tests is not enough, let's use them now:
 ``` bash {linenos=table}
 $ go test
-go: go.mod file not found in current directory or any parent directory; see 'go help modules'
+go: go.mod file not found in current directory or any parent directory
 ```
 &nbsp;
 
@@ -102,20 +102,24 @@ package main
 import "testing"
 
 func TestHello(t *testing.T) {
-        tcs := []struct {
-                input    string
-                expected string
-        }{
-                {"", "Hello, World"},
-                {"Bob", "Hello, Bob"},
-        }
+	tcs := []struct {
+		input    string
+		expected string
+	}{
+		{"", "Hello, World"},
+		{"Bob", "Hello, Bob"},
+	}
 
-        for _, tc := range tcs {
-                actual := Hello(tc.input)
-                if actual != tc.expected {
-                        t.Fatalf("got: %s, want: %s", actual, tc.expected)
-                }
-        }
+	for _, tc := range tcs {
+		actual := Hello(tc.input)
+		if actual != tc.expected {
+			t.Fatalf(
+				"got: %s, want: %s",
+				actual,
+				tc.expected,
+			)
+		}
+	}
 }
 ```
 &nbsp;
