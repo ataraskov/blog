@@ -19,7 +19,8 @@ Why not sprinkle a bit of [RDD]({{< ref "005_TIL_RDD_exists.md" >}}) on our exam
 
 Content of `README.md`:
 ```md {linenos=table}
-Hello is printing a hello message for the given name or to the world if no name provided.
+Hello prints a hello message for the given name
+or world if no name provided.
 
 Usage:
 
