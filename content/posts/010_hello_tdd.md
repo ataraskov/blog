@@ -29,7 +29,7 @@ Usage:
 &nbsp;
 
 ##### Step 1: Write a test first
-Back to TDD, write a test before impmemention anything. And here we are facing one of main benifits of the approach. How would one test and reuse code. In the "Hello World" example, for unit testing we should not print on the standard output, but rather return a value as string. Otherwise testing will became a bit too much envolved.
+Back to TDD, write a test before actual code. And here we are facing one of main benifits of the approach. How would one test and reuse code. In the "Hello World" example, for unit testing we should not print on the standard output, but rather return a value as string. Otherwise testing will became a bit too much envolved.
 
 Content of `hello_test.go`:
 ```go {linenos=table}
@@ -93,7 +93,7 @@ ok      hello-tdd       0.001s
 Better now. At this point it would be a good idea to commit your changes to a repository, so we have a checkpoint. 
 But we are not at the point defined by our `README.md` yet.
 
-##### Step 4: Add a test for next pease of logic
+##### Step 4: Add a test for next piece of logic
 We have covered one of possible use cases for our fancy program. But there is another one. We need to pass an argument to the function. Will start with test first (how else).
 
 Content of `hello_test.go`:
