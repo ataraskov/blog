@@ -29,7 +29,7 @@ Password: panic: inappropriate ioctl for device
 
 goroutine 1 [running]:
 main.main()
-        /home/user/blog-cmd-password-pipe/main.go:15 +0x154
+        main.go:15 +0x154
 exit status 2
 ```
 &nbsp;
