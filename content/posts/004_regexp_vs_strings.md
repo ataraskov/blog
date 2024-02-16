@@ -12,7 +12,7 @@ A decade and few languages later, regexp is still a tempting tool.
 Going with `go`, one can assume that statically compiled language with regexp matcher pre-compiled, should be blazing fast. Isn't it?
 Lets test. Testing framework is a first class citizen in `go` not just for fun, but for profit as well.
 
-Will test on a quite simple schenario of checking if string is empty or end with a question mark. Full code can be found at [github.com/ataraskov](https://github.com/ataraskov/blog-regexp-vs-strings).
+Will test on a quite simple schenario of checking if string is empty or end with a question mark. Full code can be found at [github.com/ataraskov](https://github.com/ataraskov/blog/tree/main/regexp-vs-strings).
 
 Regexp function to test:
 ``` go {linenos=table}

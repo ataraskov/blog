@@ -10,7 +10,7 @@ tags:
 
 Sooner or later any developer faces a nasty bug, which is too hard to find. In most cases such bugs can be covered with a simple unit test, but who write tests before release?
 
-Let's check how it can be approached in a different way, in a world of test-driven development. How "Hello World" will look like in TDD? Code is availble on github repo [ataraskov/blog-hello-tdd](https://github.com/ataraskov/blog-hello-tdd).
+Let's check how it can be approached in a different way, in a world of test-driven development. How "Hello World" will look like in TDD? Code is availble on github [repo](https://github.com/ataraskov/blog/tree/main/hello-tdd).
 
 #### Exampe Project
 
