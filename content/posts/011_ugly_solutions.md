@@ -20,6 +20,6 @@ Though fighting with an inner perfectionist is not an easy task. On one end you'
 
 References:
 * [Project Euler: Problem archive](https://projecteuler.net/archives)
-* [Wikipedia:Law of conservation of complexity](https://en.m.wikipedia.org/wiki/Law_of_conservation_of_complexity)
+* [Wikipedia: Law of conservation of complexity](https://en.m.wikipedia.org/wiki/Law_of_conservation_of_complexity)
 * [nomodes: Larry Tesler on conservation of complexity](https://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html)
 * [humanist: Explaining the Law of Conservation of Complexity](https://humanist.co/blog/law-of-conservation-of-complexity/)
