@@ -7,7 +7,7 @@ draft: false
 [Mentoring](https://en.wikipedia.org/wiki/Mentorship) is quite popular in Tech world. Tech landscape is so vast and deep. It's hard to navigate it alone.
 But, when one is ready to start mentoring?
 
-I believe that mentoring is a part of learning itself. One doesn't have to be the best expert in on a subject to help a mentee understand it a bit better. It's enough to be just a step ahead to be helpful. Often times, a different perspective is enough for a good mentoring session.
+I believe that mentoring is a part of learning itself. One doesn't have to be the best expert on a subject to help a mentee understand it a bit better. It's enough to be just a step ahead to be helpful. Often times, a different perspective is enough for a good mentoring session.
 
 Though, mentoring comes with a few challenges:
 * Fear of first step. Starting something new is always hard.
