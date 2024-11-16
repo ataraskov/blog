@@ -2,6 +2,9 @@
 title: "A few GIT tips"
 date: 2024-11-16T17:08:39+02:00
 draft: false
+tags:
+  - git
+  - ssh
 ---
 
 Sooner or later, most of tech guys (and girls) accumulate accounts to git servers (i.e., GitHub, Bitbucket, GitLab, etc.) For example, one can have a personal GitHub account and a work account. It would be nice to set them up independently. Below are a few git setup tips: 
