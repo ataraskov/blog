@@ -3,7 +3,7 @@ title: "Git commit in version output"
 date: 2023-10-18T10:13:31+02:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
 ---
 

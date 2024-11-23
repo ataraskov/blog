@@ -3,7 +3,7 @@ title: "The mystery of v := v"
 date: 2023-07-13T12:23:30+02:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
   - gotchas
 ---

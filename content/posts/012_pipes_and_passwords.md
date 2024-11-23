@@ -3,7 +3,7 @@ title: "Pipes and passwords"
 date: 2023-08-16T14:27:50+02:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
   - cli
 ---

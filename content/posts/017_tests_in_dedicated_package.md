@@ -3,7 +3,7 @@ title: "Tests in dedicated package"
 date: 2023-11-05T16:15:18+01:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
   - methodology
 ---

@@ -3,7 +3,7 @@ title: Regexp is not free
 date: 2023-06-16T12:28:34+02:00
 draft: false
 tags:
-  - go
+  - golang
   - regexp
   - benchmark
 ---

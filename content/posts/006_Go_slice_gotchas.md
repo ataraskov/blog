@@ -3,7 +3,7 @@ title: "Go slice gotchas"
 date: 2023-06-29T08:26:20+02:00
 draft: false
 tags:
- - go
+ - golang
  - programming
  - gotchas
 ---

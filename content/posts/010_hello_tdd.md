@@ -3,7 +3,7 @@ title: "Hello TDD"
 date: 2023-07-30T16:54:37+02:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
   - methodology
 ---

@@ -3,7 +3,7 @@ title: Custom errors and interfaces
 date: 2023-11-26T16:47:42+01:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
   - gotchas
 ---

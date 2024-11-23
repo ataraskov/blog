@@ -3,7 +3,7 @@ title: "Local modules in Go"
 date: 2023-09-06T21:05:14+02:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
 ---
 

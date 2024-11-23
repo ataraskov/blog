@@ -2,9 +2,9 @@
 title: "Starting something new"
 date: 2023-05-30
 draft: false
-tags: 
+tags:
     - learn
-    - go
+    - golang
     - programming
 ---
 It's hard and intimidating to start something new, for example learn a new technology, or a programing language.

@@ -3,7 +3,7 @@ title: "Semantic Naming"
 date: 2024-02-13T10:16:08+01:00
 draft: false
 tags:
-  - go
+  - golang
   - programming
   - methodology
 ---

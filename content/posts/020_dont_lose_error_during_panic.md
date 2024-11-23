@@ -3,7 +3,7 @@ title: "Don't lose an error during panic"
 date: 2023-12-25T10:47:10+01:00
 draft: false
 tags:
-  - go
+  - golang
   - panic
 ---
 

@@ -4,7 +4,7 @@ date: 2024-03-30T14:07:06+01:00
 draft: false
 tags:
   - learn
-  - go
+  - golang
   - programming
 ---
 I don't like [LeetCode](https://leetcode.com).
