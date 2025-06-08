@@ -2,6 +2,8 @@
 title: "OCI certification vs GCP certification"
 date: 2025-04-01T19:16:33+02:00
 draft: false
+tags:
+  - learn
 ---
 
 Certification is a debatable topic. There are multiple opinions on certificates' value. But sometimes, you can “kill a few birds” with just one certificate. For example if your company is trying to gain a better partnership with Google, it would be beneficial for employees to go through the certification. Not only will your company get better ‘deals’, but engineers will learn a trick or two during exam preparation process.
