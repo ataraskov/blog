@@ -43,6 +43,9 @@ copyright = "&copy; Copyright 2023, ataraskov.dev"
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
     href = "https://www.linkedin.com/in/ataraskov"
+  [[params.social]]
+    fa_icon = "fas fa-rss fa-1x"
+    href = "/index.xml"
 [params.remark42]
   proto = "https"
   host = "remark42.ataraskov.dev"
