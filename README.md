@@ -1,3 +1,1 @@
-Tools:
-https://www.scribens.com/
-https://languagetool.org/
+Articles and Examples for [ataraskov.dev](https://ataraskov.dev)
