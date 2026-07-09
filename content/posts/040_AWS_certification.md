@@ -1,5 +1,5 @@
 ---
-title: "Supply Chain Security"
+title: "AWS certification is hard"
 date: 2026-07-09T16:30:00+01:00
 draft: false
 tags:
