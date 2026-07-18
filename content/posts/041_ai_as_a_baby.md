@@ -1,6 +1,6 @@
 ---
 title: "AI agents are just like babies"
-date: 2026-07-18T13:30:00+01:00
+date: 2026-07-18T10:30:00+01:00
 draft: false
 tags:
   - fun
