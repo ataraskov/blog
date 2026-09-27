@@ -3,8 +3,8 @@ title: "Security is a tiresome business"
 date: 2026-09-27T07:30:00+01:00
 draft: false
 tags:
-  - fun
   - tech
+  - security
 ---
 
 One has to be constantly on alert.
